@@ -50,6 +50,6 @@ Note:
 9. Describe Block
 10. Fire Events
 11. Integration Tests
-12. 
+12. Finding Async Elements with FindBy
 13.
 14.
