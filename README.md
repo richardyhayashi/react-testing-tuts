@@ -97,8 +97,8 @@ Note:
 10. Jest Watch Mode
 11. Filtering Tests
 12. Grouping Tests
-13.
-14.
+13. Filename Conventions
+14. Code Coverage
 15.
 16.
 17.
