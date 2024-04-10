@@ -1,6 +1,12 @@
-const Greet = () => {
+type GreetProps = {
+  name?: string
+}
+
+const Greet = ({
+   name
+}: GreetProps) => {
   return (
-    <div>Hello</div>
+    <div>Hello {name}</div>
   );
 }
 
