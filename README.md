@@ -6,10 +6,17 @@
 
 1. Unit Tests
 2. Integration Tests
-3. End-to-End (E2E) Tests -> Puppetier, Cypress
+3. End-to-End (E2E) Tests -> Puppeteer, Cypress
+
+### Javascript Testing
+
+1. DOM Testing library - core
+2. React Testing Library (RTL) - wrapper around core
+3. Jest - testing framework
 
 ### Add 'jsconfig.json'
 
+* To get intellisense in VS Code
 `
 {
     "typeAcquisition": {
@@ -34,6 +41,7 @@
 ## React Testing Library Tutorial - Net Ninja
 
 ### Directory
+
 `React-Testing-Library-Net-Ninja`
 
 Note:
@@ -64,3 +72,28 @@ Note:
 12. Finding Async Elements with FindBy
 13. Mocking Requests
 14. Before & After Each
+
+## React Testing Tutorial
+
+`react-testing`
+
+### Create React App
+
+`$ yarn create react-app react-testing --template typescript`
+
+### Start
+
+`$ yarn start`
+
+1. Introduction
+2. Jest vs React Testing Library
+3. Types of Tests
+4. What is a Test?
+5. Project Setup
+6.
+7.
+8.
+9.
+10.
+
+53.
