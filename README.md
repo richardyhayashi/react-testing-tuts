@@ -38,6 +38,10 @@
 }
 `
 
+### ARIA
+
+Accessible Rich Internet Applications
+
 ## React Testing Library Tutorial - Net Ninja
 
 ### Directory
@@ -99,10 +103,10 @@ Note:
 12. Grouping Tests
 13. Filename Conventions
 14. Code Coverage
-15.
-16.
-17.
-18.
+15. Assertions
+16. What to test?
+17. RTL Queries
+18. getByRole
 19.
 20.
 
