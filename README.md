@@ -33,8 +33,8 @@ Note:
 3. Types of Testing
 4. Structure of Tests
 5. Intro to Query Methods
-6.
-7.
+6. Priority
+7. Using Query Methods
 8.
 9.
 10.
