@@ -11,16 +11,27 @@
 
 ## React Testing Library Tutorial - Net Ninja
 
+### Directory
 `React-Testing-Library-Net-Ninja`
 
 Note:
 * Run following before `$ yarn start`<br>
 `$ export NODE_OPTIONS=--openssl-legacy-provider`
 
+### Initialize
+
+`$ yarn`
+
+### Start
+
+`$ yarn start`
+
+### Chapters
+
 1. Introduction
 2. The Importance of Testing
 3. Types of Testing
-4.
+4. Structure of Tests
 5.
 6.
 7.
