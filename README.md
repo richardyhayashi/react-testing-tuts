@@ -8,6 +8,17 @@
 2. Integration Tests
 3. End-to-End (E2E) Tests -> Puppetier, Cypress
 
+### Add 'jsconfig.json'
+
+`
+{
+    "typeAcquisition": {
+        "include": [
+            "jest",
+        ],
+    },
+}
+`
 
 ## React Testing Library Tutorial - Net Ninja
 
@@ -35,7 +46,7 @@ Note:
 5. Intro to Query Methods
 6. Priority
 7. Using Query Methods
-8.
+8. Assertions
 9.
 10.
 11.
