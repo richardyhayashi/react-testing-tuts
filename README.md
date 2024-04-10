@@ -49,7 +49,7 @@ Note:
 8. Assertions
 9. Describe Block
 10. Fire Events
-11.
-12.
+11. Integration Tests
+12. 
 13.
 14.
