@@ -32,7 +32,7 @@ Note:
 2. The Importance of Testing
 3. Types of Testing
 4. Structure of Tests
-5.
+5. Intro to Query Methods
 6.
 7.
 8.
