@@ -107,7 +107,17 @@ Note:
 16. What to test?
 17. RTL Queries
 18. getByRole
-19.
+19. getByRole Options
 20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
 
 53.
