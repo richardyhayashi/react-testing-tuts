@@ -108,7 +108,7 @@ Note:
 17. RTL Queries
 18. getByRole
 19. getByRole Options
-20.
+20. getByLabelText
 21.
 22.
 23.
