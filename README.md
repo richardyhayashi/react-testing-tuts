@@ -2,7 +2,13 @@
 
 ## React Testing Library Tutorial - Net Ninja
 
-1.
+`React-Testing-Library-Net-Ninja`
+
+Note:
+* Run following before `$ yarn start`<br>
+`$ export NODE_OPTIONS=--openssl-legacy-provider`
+
+1. Introduction
 2.
 3.
 4.
