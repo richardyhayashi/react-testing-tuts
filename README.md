@@ -20,6 +20,17 @@
 }
 `
 
+### Disable resetMocks
+'package.json'
+`
+{
+  ...,
+  "jest": {
+    "resetMocks": false
+  }
+}
+`
+
 ## React Testing Library Tutorial - Net Ninja
 
 ### Directory
@@ -51,5 +62,5 @@ Note:
 10. Fire Events
 11. Integration Tests
 12. Finding Async Elements with FindBy
-13.
+13. Mocking Requests
 14.
