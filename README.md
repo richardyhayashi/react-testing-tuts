@@ -90,9 +90,9 @@ Note:
 3. Types of Tests
 4. What is a Test?
 5. Project Setup
-6.
-7.
-8.
+6. Running Tests
+7. Anatomy of a Test
+8. Your First Test
 9.
 10.
 
