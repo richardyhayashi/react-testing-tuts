@@ -48,7 +48,7 @@ Note:
 7. Using Query Methods
 8. Assertions
 9. Describe Block
-10.
+10. Fire Events
 11.
 12.
 13.
