@@ -47,7 +47,7 @@ Note:
 6. Priority
 7. Using Query Methods
 8. Assertions
-9.
+9. Describe Block
 10.
 11.
 12.
